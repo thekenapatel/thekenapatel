@@ -45,7 +45,8 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://your-image-host.com/your-custom-quote.png)
+![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
+
 
 ---
 
