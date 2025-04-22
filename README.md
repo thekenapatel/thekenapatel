@@ -49,6 +49,5 @@ React | Node | JavaScript | UI/UX Design | Figma
 
 ![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
 
----
 
 
