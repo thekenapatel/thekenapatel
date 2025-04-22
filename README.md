@@ -1,5 +1,5 @@
 
-# KENA A. PATEL 🐯
+# KENA PATEL 🐯
 
 ---
 
@@ -29,7 +29,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ---
 
-## 📊 GitHub Stats
+## 🧬GitLens:
 
 ![Kena's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekenapatel&theme=dark&hide_border=false)
 
@@ -37,13 +37,13 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitWins:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+### ✨ Quote
 
 ![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
 
@@ -51,5 +51,6 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 ---
 
 [![](https://visitcount.itsvg.in/api?id=thekenapatel&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
