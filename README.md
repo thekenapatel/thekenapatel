@@ -2,12 +2,12 @@
 # KENA PATEL🐯
 
 
-## ⭐️ About Me:
+## ⭐️ About Me
 
 React | Node | JavaScript | UI/UX Design | Figma
 
 
-## 👤 Profiles:
+## 👤 Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( http://www.linkedin.com/in/thekenapatel) 
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://figma.com/@kenapatel)
@@ -16,7 +16,7 @@ React | Node | JavaScript | UI/UX Design | Figma
 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
@@ -26,14 +26,14 @@ React | Node | JavaScript | UI/UX Design | Figma
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 🧬GitLens:
+## 🧬GitLens
 
 ![Kena's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thekenapatel&theme=dark&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekenapatel&theme=dark&hide_border=false&layout=compact)
 
 
-## 🏆 GitWins:
+## 🏆 GitWins
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&no-frame=false&no-bg=false&margin-w=4)
 
