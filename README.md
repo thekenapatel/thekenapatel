@@ -52,7 +52,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ## Visitor Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=thekenapatel&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=thekenapatel&color=green)
 
 
 
