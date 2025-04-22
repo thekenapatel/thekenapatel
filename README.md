@@ -38,15 +38,17 @@ React | Node | JavaScript | UI/UX Design | Figma
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&no-frame=false&no-bg=false&margin-w=4)
 
 
-## ✨ Quote
-
-![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
-
-
 
 ## 📊 View Count
 
 ![Visited](https://komarev.com/ghpvc/?username=thekenapatel&color=green)
 
+
+
+## ✨ Quote
+
+![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
+
+---
 
 
