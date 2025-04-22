@@ -45,7 +45,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://your-image-host.com/your-custom-quote.png)
 
 ---
 
