@@ -1,7 +1,6 @@
 
 # KENA PATEL🐯
 
----
 
 ## ⭐️ About Me:
 
