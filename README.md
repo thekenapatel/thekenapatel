@@ -9,10 +9,10 @@ React | Node | JavaScript | UI/UX Design | Figma
 
 ## 👤 Profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( http://www.linkedin.com/in/thekenapatel) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)]( http://www.linkedin.com/in/thekenapatel) 
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://figma.com/@kenapatel)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/thekenapatel)
-[![Reddit](https://img.shields.io/badge/Reddit-%23A259FF.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/thekenapatel) 
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=Twitter&logoColor=white)](https://x.com/thekenapatel)
+[![Reddit](https://img.shields.io/badge/Reddit-%235F99CF.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/thekenapatel) 
 
 
 
