@@ -43,12 +43,14 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ---
 
-### ✨ Quote
+## ✨ Quote
 
 ![Dev Quote](https://github.com/thekenapatel/thekenapatel/blob/main/devquote.png?raw=true)
 
 
 ---
+
+## Visitor Counter
 
 [![](https://visitcount.itsvg.in/api?id=thekenapatel&icon=0&color=0)](https://visitcount.itsvg.in)
 
