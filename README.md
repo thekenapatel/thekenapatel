@@ -2,7 +2,7 @@
 # KENA PATEL🐯
 
 
-## ⭐️ About Me
+## 💬 A Little About Me
 
 React | Node | JavaScript | UI/UX Design | Figma
 
