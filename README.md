@@ -1,10 +1,13 @@
 
 # KENA A. PATEL 🐯
 
+---
+
 ## ⭐️ About Me:
 
 React | Node.js | JavaScript | UI/UX Design | Figma
 
+---
 
 ## 👤 Profiles:
 
@@ -13,6 +16,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/thekenapatel) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/thekenapatel)
 
+---
 
 ## 💻 Tech Stack:
 
@@ -23,6 +27,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -30,11 +35,13 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekenapatel&theme=dark&hide_border=false&layout=compact)
 
+---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-done done
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 
