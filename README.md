@@ -33,7 +33,7 @@ React | Node.js | JavaScript | UI/UX Design | Figma
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 done done
 
 ### ✍️ Random Dev Quote
