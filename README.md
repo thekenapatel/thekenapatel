@@ -33,10 +33,6 @@ React | Node | JavaScript | UI/UX Design | Figma
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekenapatel&theme=dark&hide_border=false&layout=compact)
 
 
-## 🏆 GitWins
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thekenapatel&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 ## 📊 View Count
